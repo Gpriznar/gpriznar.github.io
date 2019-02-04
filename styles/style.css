@@ -1,0 +1,38 @@
+html {
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Press Start 2P', sans-serif; /* this should be the rest of the output you got from Google fonts */
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;    
+    line-height: 1.5;
+    letter-spacing: .5px;
+    text-align: center;
+  }
+  li {
+    font-size: 16px;    
+    line-height: 1.5;
+    letter-spacing: .5px;
+  }
+ html {
+     background-image: url(https://orig00.deviantart.net/9a8b/f/2018/197/f/4/0001_0022_by_keybourd_man-dchdodf.gif)
+ }
+ body {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+     }
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: black;
+    text-shadow: 3px 3px 1x ;
+  }
+  img {
+    display: block;
+  }
+  

@@ -32,3 +32,10 @@ if(!localStorage.getItem('name')) {
 myButton.onclick = function() {
   setUserName();
 }
+
+//Music
+
+function playMusic(){
+  var music = new Audio('music/gts.mp3');
+  music.play();
+  }

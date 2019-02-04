@@ -35,4 +35,6 @@ html {
   img {
     display: block;
   }
-  
+  button {
+    align: center
+  }

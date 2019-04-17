@@ -15,6 +15,6 @@ When visiting the website for the first time, the user will be prompted to enter
 
 Javascript, HTML, CSS
 
-**Direct link:** 
+**Live Link:** 
 
 https://gpriznar.github.io

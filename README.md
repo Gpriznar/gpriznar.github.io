@@ -21,4 +21,4 @@ https://gpriznar.github.io
 
 **Preview:**
 
-![](preview.png)
+![](Preview.png)

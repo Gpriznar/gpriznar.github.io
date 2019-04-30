@@ -18,3 +18,7 @@ JavaScript, HTML, CSS
 **Live Link:** 
 
 https://gpriznar.github.io
+
+**Preview:**
+
+![](preview.png)

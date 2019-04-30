@@ -4,7 +4,7 @@
 
 Humble beginnings...
 
-This website was created with self taught HTML/CSS/Javascript as a way to test my intial knowledge!
+This website was created with self taught HTML/CSS/JavaScript as a way to test my intial knowledge!
 
 **How to use:**
 
@@ -13,7 +13,7 @@ When visiting the website for the first time, the user will be prompted to enter
 
 **Features:** 
 
-Javascript, HTML, CSS
+JavaScript, HTML, CSS
 
 **Live Link:** 
 
